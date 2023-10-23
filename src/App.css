@@ -107,7 +107,7 @@ a {
 }
 
 /* This is for small size display like mobile  */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 550px) {
   .section__padding {
     padding: 4rem;
   }
