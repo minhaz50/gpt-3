@@ -13,6 +13,7 @@
 }
 .gpt3__navbar-links_logo {
   margin-right: 2rem;
+  margin-top: 0.5rem;
 }
 .gpt3__navbar-links_logo img {
   width: 62px;
@@ -34,7 +35,7 @@
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 12px;
-  line-height: 25px;
+  line-height: 20px;
   text-transform: capitalize;
 
   margin: 0 1rem;
